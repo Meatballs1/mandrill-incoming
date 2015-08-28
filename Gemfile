@@ -45,3 +45,5 @@ group :development do
   gem 'spring'
 end
 
+gem 'mandrill-rails'
+gem 'letter_opener_web', '~> 1.2.0'
